@@ -74,7 +74,7 @@ Define a file path and save the DataFrame to a CSV file:
 
 Report View
 <br>
-
+<img src=https://github.com/sularaperera/Fleet-Data-Integration-System-Python/blob/main/images/report_view.png></img>
 
 # 9. Future Enhancements
 
