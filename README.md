@@ -1,3 +1,5 @@
+<img src=https://github.com/sularaperera/Fleet-Data-Integration-System-Python/blob/main/images/banner.png></img>
+
 # 1. Introduction
 
 This project documentation outlines the development and implementation of Fleet Data Integration System. The purpose of this system is to analyze data from the Fleet Pin online system, enabling the customization of crucial information related to vehicle maintenance, registrations, and road charges. The integration process involves transforming raw data into a structured format that aids decision-making for timely vehicle servicing and compliance renewals.
