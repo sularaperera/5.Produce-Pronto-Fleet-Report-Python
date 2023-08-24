@@ -27,47 +27,47 @@ Here's a breakdown of the code, explaining each step
 
 Import necessary libraries and modules:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/1.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/1.png width=800></img>
 <br>
 Read data from a CSV file into a pandas DataFrame using specific columns:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/2.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/2.png width=800></img>
 <br>
 Convert 'WoF Due' and 'Rego Due' columns from string to datetime format:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/3.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/3.png width=800></img>
 <br>
 Get today's date for comparison:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/4.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/4.png width=800></img>
 <br>
 Calculate days remaining for WOF Renewal and Rego Renewal:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/5.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/5.png width=800></img>
 <br>
 Clean 'Odo / Hours / Hubo' data by extracting numbers using regex:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/6.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/6.png width=800></img>
 <br>
 Split 'Odo / Hours / Hubo' data into 'ODO' and 'Hubometer' columns:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/7.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/7.png width=800></img>
 <br>
 Extract numerical values from 'Next Service Due' and 'RUC Due' columns:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/8.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/8.png width=800></img>
 <br>
 Calculate RUC Due in kilometers and Service Due in kilometers:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/9.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/9.png width=800></img>
 <br>
 Apply styling to the DataFrame for highlighting specific ranges of values:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/10.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/10.png width=800></img>
 <br>
 Define a file path and save the DataFrame to a CSV file:
 <br>
-<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/11.png width=600></img>
+<img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/11.png width=800></img>
 <br>
 
 # 9. Future Enhancements
