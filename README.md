@@ -70,6 +70,10 @@ Define a file path and save the DataFrame to a CSV file:
 <img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/11.png width=800></img>
 <br>
 
+Report View
+<br>
+
+
 # 9. Future Enhancements
 
 Future improvements could include real-time data syncing, advanced predictive analytics, and integration with maintenance scheduling tools. Scalability considerations should also be explored to accommodate a growing fleet.
