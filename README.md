@@ -71,10 +71,14 @@ Define a file path and save the DataFrame to a CSV file:
 <br>
 <img src=https://github.com/sularaperera/5.Produce-Pronto-Fleet-Report-Python/blob/main/code_snippets/11.png width=800></img>
 <br>
+Initial Data
+<br>
+<img src=https://github.com/sularaperera/Fleet-Data-Integration-System-Python/blob/main/images/report_view.png></img>
+
 
 Report View
 <br>
-<img src=https://github.com/sularaperera/Fleet-Data-Integration-System-Python/blob/main/images/report_view.png></img>
+<img src=https://github.com/sularaperera/Fleet-Data-Integration-System-Python/blob/main/images/initial_data.png></img>
 
 # 9. Future Enhancements
 
