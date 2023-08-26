@@ -77,7 +77,7 @@ Initial Data
 <br>
 Report View
 <br>
-<img src=https://github.com/sularaperera/Fleet-Data-Integration-System-Python/blob/main/images/report_view.png></img>
+<img src=https://github.com/sularaperera/Fleet-Data-Integration-System-Python/blob/main/images/report_view_bl.png></img>
 
 # 9. Future Enhancements
 
