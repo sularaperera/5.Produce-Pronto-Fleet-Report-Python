@@ -87,5 +87,5 @@ Future improvements could include real-time data syncing, advanced predictive an
 # 10. Conclusion
 The Fleet Data Integration System enhances fleet management by providing actionable insights derived from Fleet Pin data. This tool assists in making informed decisions related to maintenance, compliance, and financial planning, ultimately leading to improved operational efficiency.
 
-[Click here to see the full project](https://github.com/sularaperera/Personal-Finance-Dashboard/blob/main/ETL/ETL_Bank_Trasactions.ipynb)
+[Click here to see the full project](https://github.com/sularaperera/Fleet-Data-Integration-System/blob/main/script_new_.ipynb)
 
